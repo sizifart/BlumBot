@@ -1,0 +1,2 @@
+# BlumBot
+BlumBot App AutoClicker
