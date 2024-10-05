@@ -9,6 +9,9 @@
 |:--------------------------------------------------:|:---------:|
 |                   Multithreading                   |     ✅     |
 |              Proxy binding to session              |     ✅     |
+|                  Auto Claim Daily                  |     ✅     |
+|                   Auto Claim Task                  |     ✅     |
+|               Auto Claim Every 7 hours             |     ✅     |
 | Auto-register your account with your referral link |     ✅     |
 |      Auto-game with a choice of random points      |     ✅     |
 |           Support for pyrogram .session            |     ✅     |
